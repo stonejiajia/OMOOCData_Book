@@ -1,5 +1,6 @@
 {
     "variables": {
         "host": "mybook.com"
+        "plugins": ["mathjax"]
     }
 }
