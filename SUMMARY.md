@@ -1,6 +1,6 @@
 # Summary
 
-* [开发环境](chapter1.md)
+* [配置环境](chapter1.md)
    * [Magit](How-to-use-Magit.md)
    * [Org-babel](Org-mode.md)
    * [Emacs](Spacemacs.md)
