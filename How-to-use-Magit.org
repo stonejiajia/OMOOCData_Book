@@ -14,10 +14,15 @@ Magit 是 Emacs 用 Github 的接口，做出来一个的 Mode。它能实现 Gi
 ** Git init
 + c-x c-f 打开你的本地 Git 仓库
 + 输入 SPC g i 这键位相当于 git init 的命令
-** Git status
+** Git status 和 Git commit
 1. 先打开本地的一个文件，README.md,在第一行输入 Add a line
 
 2. 输入 Spc g s 你会发发现了 README.md 这文件是 Unstage 的状态
-在 Unstage 这一行按 Tab 键，可以看到改了那些地方。然后还是在这一行按s
+在 Unstage 这一行按 Tab 键，可以看到改了那些地方。然后还是在这一行按 s
+状态变成了 Staged 的状态。
+
+3. 输入 c,跳出一些选项，再输入 c。
+4. 这里是你输入 Commit 的理由的地方，我们输入 Frist commit
+5.  
 
 
