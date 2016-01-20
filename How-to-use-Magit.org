@@ -23,6 +23,6 @@ Magit 是 Emacs 用 Github 的接口，做出来一个的 Mode。它能实现 Gi
 
 3. 输入 c,跳出一些选项，再输入 c。
 4. 这里是你输入 Commit 的理由的地方，我们输入 Frist commit
-5.  
-
+5. 输入完后，c-c c-c 运行
+6. 在 Unpushed 这行输入 P(大写）,这里选择 p 的选项，意思是 Push master to 你的库p
 
