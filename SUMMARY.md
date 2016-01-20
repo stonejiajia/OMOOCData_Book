@@ -7,6 +7,7 @@
    * [Emacs](Spacemacs.md)
    * [Gitbook上写数学公式](2016.1.md)
    * [Oh-my-zsh](zsh.md)
+   * [Ipyton](Ipython-learning.md)
 * [Statistical Thinking for Data Science and Analytics](Statistical.md)
    * [贝叶斯](Bayes.md)
    * [双盲试验](double-blind.md)
