@@ -3,7 +3,7 @@
 * [配置环境](chapter1.md)
    * [Setting up OSX for Data Analysis](Data-osx.md)
    * [Magit](How-to-use-Magit.md)
-   * [Org-babel](Org-mode.md)
+   * [Org-babel](Org-babel.md)
    * [Emacs](Spacemacs.md)
    * [Gitbook上写数学公式](2016.1.md)
    * [Oh-my-zsh](zsh.md)
